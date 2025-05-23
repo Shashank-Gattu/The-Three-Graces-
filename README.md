@@ -11,7 +11,7 @@ Follow the steps below to run this project locally.
 npm create vite@latest
 
 ### 3. Install Dependencies
-npm install
+npm install ,
 npm install three
 
 ### 4. Run the dev server
